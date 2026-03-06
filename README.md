@@ -1,3 +1,3 @@
 # its-demo
-its my first git rapository
-Auther - Amit Kumar
+its my first git rapository.
+Author - Amit Kumar
